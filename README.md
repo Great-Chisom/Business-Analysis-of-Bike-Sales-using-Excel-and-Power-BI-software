@@ -229,7 +229,7 @@ This conclusion would aid the sales and marketing department staff to strategize
 
 ## Appreciation:
 
-Thank you for reading through, and feel free to drop a comment or suggestions, and click here to access the interactive Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/1b085c55-638d-423a-b63d-e5365af070cf/ReportSection77e391d937c4d352bd54?experience=power-bi)
+Thank you for reading through, and feel free to drop a comment or suggestions. Optionally, you can click here to access the interactive Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/1b085c55-638d-423a-b63d-e5365af070cf/ReportSection77e391d937c4d352bd54?experience=power-bi)
 
 
  ![](thank-you-message.jpeg)
